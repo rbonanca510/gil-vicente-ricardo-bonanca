@@ -11,6 +11,7 @@ defrontar o Gil Vicente FC.
 ├── DashboardGilVicente.py       # dashboard interativo (Streamlit), complementar ao notebook
 ├── ApresentaçãoPDF.pdf          # apresentação final em PDF
 ├── .gitignore                   # exclui os dados IMPECT do repositório
+├── escudo_gvfc.png              # imagem para o dashboard (transferir para a mesma diretoria que o streamlit)    
 └── README.md
 ```
 
