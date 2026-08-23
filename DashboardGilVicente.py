@@ -222,7 +222,7 @@ PASTA_SCRIPT = os.path.dirname(os.path.abspath(__file__))
 
 colunas_cabecalho = st.columns([1, 9])
 with colunas_cabecalho[0]:
-    caminho_escudo = os.path.join(PASTA_SCRIPT, "assets", "escudo_gvfc.png")
+    caminho_escudo = os.path.join(PASTA_SCRIPT, "escudo_gvfc.png")
     if os.path.exists(caminho_escudo):
         st.image(caminho_escudo, width=64)
     else:
