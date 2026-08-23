@@ -9,7 +9,7 @@ defrontar o Gil Vicente FC.
 ```
 ├── NotebookGilVicente.ipynb     # notebook com toda a análise, código e visualizações
 ├── DashboardGilVicente.py       # dashboard interativo (Streamlit), complementar ao notebook
-├── apresentacao/                # apresentação final (5 slides)
+├── ApresentaçãoPDF.pdf          # apresentação final em PDF
 ├── .gitignore                   # exclui os dados IMPECT do repositório
 └── README.md
 ```
